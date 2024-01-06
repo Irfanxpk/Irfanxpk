@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irfanxpk&label=Profile%20views&color=0e75b6&style=flat" alt="irfanxpk" /> </p>
 
-- 🔭 I’m currently working on [Ashion.com](https://github.com/Irfanxpk/Ashion.com-Ecommerce-Website-Project)
+- 🔭 I’m currently working on [Ashion.com](https://ashionstore.shop)
 
 - 🌱 I’m currently learning **MERN stack**
 
