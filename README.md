@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irfanxpk&label=Profile%20views&color=0e75b6&style=flat" alt="irfanxpk" /> </p>
 
-- 🔭 I’m currently working on [Blend]()
-
-- 🌱 I’m currently learning **MERN stack**
+- 🔭 I’m currently working on [edumyst & Blend]()
 
 - 👨‍💻 All of my projects are available at [https://github.com/Irfanxpk/](https://github.com/Irfanxpk/)
 
